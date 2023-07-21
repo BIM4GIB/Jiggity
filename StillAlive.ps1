@@ -1,4 +1,4 @@
-﻿#"Still Alive"
+﻿#"JIGGIDY"
 #A simple script for e.g. keeping MS Teams availability status to show Available
 #by sending the key-combo Alt+Tab (switch application window focus) every minute for a user-defined number of minutes
 #@BIM4GIB 2020
@@ -14,7 +14,7 @@
 #   - Added mouse jiggling action as a random command option                 
 #
 #Use:
-# - Copy this script to a new Notepad file, save it with extension .ps1, e.g. "StillAlive.ps1"
+# - Copy this script to a new Notepad file, save it with extension .ps1, e.g. "jiggidy.ps1"
 # - Right-clik on your new file and run using Powershell
 
 # GUI for user input
