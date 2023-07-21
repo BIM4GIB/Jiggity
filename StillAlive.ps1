@@ -1,4 +1,4 @@
-﻿#"Still Alive":
+﻿#"Still Alive"
 #A simple script for e.g. keeping MS Teams availability status to show Available
 #by sending the key-combo Alt+Tab (switch application window focus) every minute for a user-defined number of minutes
 #@BIM4GIB 2020
