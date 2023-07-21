@@ -1,4 +1,4 @@
-# Jiggydy
+# Jiggidy
 A mouse jiggler with some sophistications
 - A wee GUI for entering duration
 - An array of commands to select from randomly, so it isn't always the same repetitive action
