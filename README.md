@@ -1,4 +1,4 @@
-# Jiggidy
+# Jiggity
 A mouse jiggler with some sophistications
 - A wee GUI for entering duration
 - An array of commands to select from randomly, so it isn't always the same repetitive action
@@ -8,5 +8,5 @@ A mouse jiggler with some sophistications
 - Added mouse jiggling action as a random command option                 
 
 USE:
-- Copy this script to a new Notepad file, save it with extension .ps1, e.g. "jiggidy.ps1"
+- Copy this script to a new Notepad file, save it with extension .ps1, e.g. "jiggity.ps1"
 - Right-clik on your new file and run using Powershell
