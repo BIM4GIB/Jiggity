@@ -10,6 +10,8 @@ A mouse jiggler with some sophistications
 USE:
 - Copy this script to a new Notepad file, save it with extension .ps1, e.g. "jiggity.ps1"
 - Right-clik on your new file and run using Powershell
+- 
 
   
+
 ![image](https://github.com/BIM4GIB/Jiggity/assets/48036357/a8fc7ba8-64df-4d04-9fad-69e8e8a00293)
